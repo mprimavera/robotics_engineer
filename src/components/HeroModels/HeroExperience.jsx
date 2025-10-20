@@ -25,7 +25,7 @@ const HeroExperience = () => {
                 minPolarAngle={Math.PI / 2 - degToRad(35)}
                 maxPolarAngle={Math.PI / 2 + degToRad(15)}
                 minAzimuthAngle={degToRad(145)}
-                maxAzimuthAngle={degToRad(200)}
+                maxAzimuthAngle={degToRad(181)}
                 autoRotate={true}
                 autoRotateSpeed={1.5}
                 enableDamping={true}
