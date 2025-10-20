@@ -7,5 +7,6 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/robotics_engineer/', // <-- add this line
 })
 
