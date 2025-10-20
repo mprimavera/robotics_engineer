@@ -53,11 +53,20 @@ const Hero = () => {
                             Hi, I’m Michael, a robotics engineer focusing on the development of agentic machines.
                         </p>
 
-                        <Button
-                            text="See My Work"
-                            className="md:w-80 md:h-16 w-60 h-12"
-                            id="counter"
-                        />
+                        <a
+                            href="https://www.youtube.com/watch?v=EnIhbuE6zA0&list=PL1Ee_XSiTSM2jPBlFlSY1ZYh4nsHU77T-"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-flex"
+                        >
+                            <Button
+                                text="See My Work"
+                                className="md:w-80 md:h-16 w-60 h-12"
+                            />
+                        </a>
+
+
+
                     </div>
                 </header>
 
